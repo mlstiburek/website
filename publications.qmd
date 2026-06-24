@@ -128,15 +128,19 @@ x
 
 ## 2012
 
-x
+Funda, T., **Lstibůrek, M.**, Klápště, J., El-Kassaby, Y.A. (2012). Optimization of genetic gain and diversity in seed orchard crops considering variation in seed germination. *Scandinavian Journal of Forest Research*, 27(8), 787-793.
+[[Journal]](https://doi.org/10.1080/02827581.2012.686627)
 
-x
+**Lstibůrek, M.**, Klápště, J., Kobliha, J., El-Kassaby, Y.A. (2012). Breeding without breeding: effect of gene flow on fingerprinting effort. *Tree Genetics & Genomes*, 8, 873-877.
+[[Journal]](https://doi.org/10.1007/s11295-012-0472-0)  [[PDF]](pdfs/Lstiburek_2012.pdf){target="_blank"}
 
 ## 2011
 
-x
+El-Kassaby, Y.A., Cappa, E.P., Liewlaksaneeyanawin, C., Klápště, J.,  **Lstibůrek, M.** (2011). Breeding without breeding: is a complete pedigree necessary for efficient breeding? *PLOS One*, 6(10), e25737.
+[[Journal]](https://doi.org/10.1371/journal.pone.0025737)  [[PDF]](pdfs/ElKassaby_2011.pdf){target="_blank"}
 
-x
+**Lstibůrek, M.**, Ivanková, K., Kadlec, J., Kobliha, J., Klápště, J., El-Kassaby Y.A. (2011). Breeding without breeding: minimum fingerprinting effort with respect to the effective population size. *Tree Genetics & Genomes*, 7, 1069-1078.
+[[Journal]](https://doi.org/10.1007/s11295-011-0395-1)  [[PDF]](pdfs/Lstiburek_2011.pdf){target="_blank"}
 
 Cappa, E.P., **Lstibůrek, M.**, Yanchuk, A.D., El-Kassaby, Y.A. (2011). Two-dimensional penalized splines via Gibbs sampling to account for spatial variability in forest genetic trials with small amount of information available. *Silvae Genetica*, 60(1), 25-35.
 [[Journal]](https://reference-global.com/article/10.1515/sg-2011-0004)  [[PDF]](pdfs/Cappa_2011.pdf){target="_blank"}
@@ -149,6 +153,9 @@ Cappa, E.P., **Lstibůrek, M.**, Yanchuk, A.D., El-Kassaby, Y.A. (2011). Two-dim
 ## 2009
 El-Kassaby, Y., **Lstibůrek, M.** (2009). Breeding without breeding. *Genetics Research*, 91(2), 111-120.
 [[Journal]](https://doi.org/10.1017/S001667230900007X)  [[PDF]](pdfs/Lstiburek_2009.pdf){target="_blank"}
+
+Funda, T., **Lstibůrek, M.**, Lachout, P., El-Kassaby, Y. (2009). Optimization of combined genetic gain and diversity for collection and deployment of seed orchard crops. *Tree Genetics & Genomes*, 5, 583-593.
+[[Journal]](https://doi.org/10.1007/s11295-009-0211-3)  [[PDF]](pdfs/Funda_2009.pdf){target="_blank"}
 
 ## 2007
 Klápště, J., **Lstibůrek, M.**, Kobliha, J. (2007). Initial evaluation of half-sib progenies of Norway spruce using the best linear unbiased prediction. *Journal of Forest Science*, 53(2), 41-46.
