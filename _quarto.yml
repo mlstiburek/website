@@ -12,8 +12,10 @@ website:
       - href: publications.qmd
         text: Publications
     right:
-      - href: index_cz.qmd
-        text: "🇨🇿 CZ"
+      - text: "EN"
+        href: index.qmd
+      - text: "CZ"
+        href: index_cz.qmd
 
 format:
   html:
