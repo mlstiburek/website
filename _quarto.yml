@@ -1,0 +1,22 @@
+project:
+  type: website
+  resources:
+    - "pdfs/"
+    
+website:
+  title: "Milan Lstibůrek"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+    right:
+      - href: index_cz.qmd
+        text: "🇨🇿 CZ"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    link-external-newwindow: true

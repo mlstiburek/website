@@ -1,0 +1,24 @@
+---
+title: "Milan Lstibůrek"
+image: profile.jpg
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@czu.cz
+    - icon: building
+      text: CZU Profil
+      href: https://home.czu.cz/lstiburek/uvod
+    - icon: github
+      text: Github
+      href: https://github.com/
+---
+
+## O mně
+
+Působím jako profesor v oboru Kvantitativní genetiky a šlechtění lesních dřevin na České zemědělské univerzitě v Praze (ČZU)...
+
+## Novinky
+* **2026:** Spuštění nových webových stránek.

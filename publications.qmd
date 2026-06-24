@@ -1,0 +1,180 @@
+---
+title: "Publications"
+toc: true
+---
+Note: <u>Underlined</u> authors indicate my Ph.D. students and postdocs.
+
+
+## 2026
+
+**Lstibůrek, M.**, Bittner, V., Solvin, T.M., Korecký, J., and Steffenrem A. (2026). Identifying optimal sets of individuals under a pairwise genomic relationship threshold for breeding and conservation. *Genetics*, 233(2), iyag095.\
+⭐ **Featured Article**
+[ [Journal](https://doi.org/10.1093/genetics/iyag095) ]  [ [GitHub Code](https://github.com/mlstiburek/Selection_unrelated) ]
+
+<u>Sagariya, C.</u>, Bittner, V., Pook, T., Roy, A., and **Lstibůrek, M.** (2026). Impact of erroneous marker data on the accuracy of narrow-sense heritability. *Genetics*, 232(1), iyaf230. 
+[[Journal]](https://doi.org/10.1093/genetics/iyaf230)  [[PDF]](pdfs/sagariya_2026.pdf){target="_blank"} [[GitHub Code]](https://github.com/mlstiburek/genotyping_error_heritability)
+
+Štěpánová, K., Lhotáková, Z., <u>Neuwirthová, E.</u>, Kupková, L., Červená, L., Raasch, F., Potůčková, M., Stejskal, J., Čepl, J., Campbell, P., **Lstibůrek, M.**, Albrechtová, J. (2026). Scots pine seedlings of lowland and upland 
+ecotypes respond differently to drought detected by needle functional traits and spectral reflectance. *BMC Plant Biology*, 26, 261. 
+[[Journal]](https://doi.org/10.1186/s12870-025-08019-y)  [[PDF]](pdfs/Stepanova_2026.pdf){target="_blank"}
+
+<u>Neuwirthová, E.</u>, Chuchlík, J., Pikl, M., Lhotáková, Z., Kashkan, I., Panzarová, K., Stejskal, J., Albrechtová, J., **Lstibůrek, M.**, Čepl, J.  (2026). Overcoming difficulties in segmentation of hyperspectral plant images with small projection areas using machine learning. *Scientific Reports*, 16, 4325. 
+[[Journal]](https://doi.org/10.1038/s41598-025-31952-9)  [[PDF]](pdfs/Neuwirthova_2026.pdf){target="_blank"}
+
+## 2025
+
+Jeon, K., <u>Kim, Y.</u>, Kang, K.S., <u>Sagariya, C.</u>, **Lstibůrek, M.** (2025). Incorporating specific combining ability into selective seed harvest significantly increases genetic gain: a simulation study on Korean red pine. *Tree Genetics & Genomes*, 21(5), 26.
+[[Journal]](https://doi.org/10.1007/s11295-025-01710-z)  [[GitHub Code]](https://github.com/mlstiburek/selective_seed_harvest)
+
+<u>Sagariya, C.</u>, Steffenrem, A., Gezan, S., Pook, T., García-Gil, R., Kastally, C.,  Pyhäjärvi, T., **Lstibůrek, M.** (2025). The heritability accuracy in forest tree breeding programs relying on random mating. *Scandinavian Journal of Forest Research*, 40(5-6), 292-302.
+[[Journal]](https://doi.org/10.1080/02827581.2025.2530427) [[PDF]](pdfs/sagariya_2025.pdf){target="_blank"}
+
+<u>Chludil, D.</u>, Čepl, J., Steffenrem, A., Stejskal, J., <u>Sagariya, C.</u>, Pook, T.,  Schueler, S., Korecký, J., Almqvist, C., Chakraborty, D., Berlin, M., **Lstibůrek, M.** (2025). A pollen-based assisted migration for rapid forest adaptation. *Global Change Biology*, 31(1), e70014.
+[[Journal]](https://doi.org/10.1111/gcb.70014) [[PDF]](pdfs/Chludil_2025_1.pdf){target="_blank"}
+
+<u>Chludil, D.</u>, Almquist, C., Berlin, M., Steffenrem, A., McKeand, S.E., Korecký, J., Stejskal, J., Čepl, J., Isik, F., Chakraborty, D., Schueler, S., Pook, T., <u>Sagariya, C.</u>, **Lstibůrek, M.** (2025). Alleviating the concerns about pollen-based assisted migration. *Global Change Biology*, 31(6), e70262.
+[[Journal]](https://doi.org/10.1111/gcb.70262) [[PDF]](pdfs/Chludil_2025_2.pdf){target="_blank"}
+
+<u>Neuwirthová, E.</u>, Stejskal, J., Lhotáková, Z., Korecký, J., Čepl, J., Nikodem, A., Panzarová, K., Albrechtová, J., **Lstibůrek, M.** (2025). Drought response and genetic variation in Scots pine seedlings' provenances: insights from high-throughput phenotyping for climate-resilient forestry. *Evolutionary Applications*, 18, e70157.
+[[Journal]](https://doi.org/10.1111/eva.70157) [[PDF]](pdfs/Neuwirthova_2025_1.pdf){target="_blank"}
+
+Provazník, D., Stejskal, J., Lhotáková, Z., Čepl, J., <u>Neuwirthová, E.</u>, Nofrizal, A.Y., Korecký, J., Červená, L., Kupková, L., Klápště, J., Hansen, J.K., Gezan, S.A., Campbell, P., **Lstibůrek, M.**, Albrechtová, J. (2025). Needle‐ and canopy‐level genetic variation in Scots pine (Pinus sylvestris L.) revealed by hyperspectral phenotyping across sites and seasons. *Evolutionary Applications*, 18, e70176.
+[[Journal]](https://doi.org/10.1111/eva.70176) [[PDF]](pdfs/Provaznik_2025.pdf){target="_blank"}
+
+## 2024
+
+Chakraborty, D., Ciceu, A., Ballian, D., Benito, G.M., Bolte, A., Bozic, G., Buchacher, R., Čepl, J., Cremer, E., Ducousso, A., Gaviria, J., George, J.P., Hardtke, A., Ivankovic, M., Klisz, M., Kowalczyk, J., Kremer, A., **Lstibůrek, M.**, Longauer, R., Mihai, G., Nagy, L., Petkova, K., Popov, E., Schirmer, R., Skrøppa, T., Solvin, T.M., Steffenrem, A., Stejskal, J., Stojnic, S., Volmer, K., Schueler, S. (2024). Assisted tree migration can preserve the European forest carbon sink under climate change. *Nature Climate Change*, 14(8), 845-852.
+[[Journal]](https://doi.org/10.1038/s41558-024-02080-5) [[PDF]](pdfs/Chakraborty_2024.pdf){target="_blank"}
+
+## 2023
+
+**Lstibůrek, M.**, García-Gil, R., Steffenrem, A. (2023). Rolling front landscape breeding. *Annals of Forest Science*, 80, 36.
+[[Journal]](https://doi.org/10.1186/s13595-023-01203-w) [[PDF]](pdfs/Lstiburek_2023.pdf){target="_blank"}
+
+<u>Poupon, V.</u>, Gezan, S.A., Schueler, S., **Lstibůrek, M.** (2023). Genotype x environment interaction and climate sensitivity in growth and wood density of European larch.  *Forest Ecology and Management*, 545, 121259.
+[[Journal]](https://doi.org/10.1016/j.foreco.2023.121259) [[PDF]](pdfs/Poupon_2023.pdf){target="_blank"}
+
+Stejskal, J., Čepl, J., <u>Neuwirthová, E.</u>, Akinyemi O.O., Chuchlík, J., Provazník, D., Keinänen, M., Campbell, P., Albrechtová, J., **Lstibůrek, M.**, Lhotáková, Z. (2023). Making the genotypic variation visible: hyperspectral phenotyping in Scots pine seedlings. *Plant Phenomics*, 5, 0111.
+[[Journal]](https://doi.org/10.34133/plantphenomics.0111) [[PDF]](pdfs/Stejskal_2023.pdf){target="_blank"}
+
+## 2022
+
+x
+
+x
+
+## 2021
+
+x
+
+x
+
+x
+
+x
+
+## 2020
+
+x
+
+x
+
+## 2019
+
+x
+
+## 2018
+
+**Lstibůrek, M.**, Bittner, V., Hodge, G.H., Picek, J., Mackay, T.F.C. (2018). Estimating realized heritability in panmictic populations. *Genetics*, 208(1), 89-95. 
+[[Journal]](https://doi.org/10.1534/genetics.117.300508)  [[PDF]](pdfs/Lstiburek_2018.pdf){target="_blank"} [[GitHub Code]](https://github.com/mlstiburek/Computer-code-realized-heritability)
+
+x
+
+x
+
+## 2017
+
+x
+
+x
+
+## 2016
+
+x
+
+x
+
+## 2015
+
+x
+
+x
+
+## 2014
+
+x
+
+x
+
+x
+
+## 2013
+
+x
+
+x
+
+x
+
+## 2012
+
+x
+
+x
+
+## 2011
+
+x
+
+x
+
+x
+
+## 2010
+
+**Lstibůrek, M.**, El-Kassaby, J. (2010). Minimum-inbreeding seed orchard design. *Genetics Research*, 56(6), 603-608.
+[[Journal]](https://doi.org/10.1093/forestscience/56.6.603)  [[PDF]](pdfs/Lstiburek_2010.pdf){target="_blank"}
+
+## 2009
+El-Kassaby, Y., **Lstibůrek, M.** (2009). Breeding without breeding. *Genetics Research*, 91(2), 111-120.
+[[Journal]](https://doi.org/10.1017/S001667230900007X)  [[PDF]](pdfs/Lstiburek_2009.pdf){target="_blank"}
+
+## 2007
+Klápště, J., **Lstibůrek, M.**, Kobliha, J. (2007). Initial evaluation of half-sib progenies of Norway spruce using the best linear unbiased prediction. *Journal of Forest Science*, 53(2), 41-46.
+[[PDF]](pdfs/Lstiburek_2007_1.pdf){target="_blank"}
+
+Hajnala, M., **Lstibůrek, M.**, Kobliha, J. (2007). First evaluation of growth parameters in clonal test
+with wild cherry. *Journal of Forest Science*, 53(2), 57-65.
+[[PDF]](pdfs/Lstiburek_2007_2.pdf){target="_blank"}
+
+Funda, T., **Lstibůrek, M.**, Klápště, J., Permedlová, I., Kobliha, J. (2007). Addressing spatial variability in provenance experiments exemplified in two trials with black spruce. *Journal of Forest Science*, 53(2), 47-56.
+[[PDF]](pdfs/Lstiburek_2007_3.pdf){target="_blank"}
+
+## 2006
+**Lstibůrek, M.**, Mullin, T.J., El-Kassaby, Y. (2006). The impact of differential success of somatic embryogenesis on the outcome of clonal forestry programs. I. Initial comparison under multitrait selection. *Canadian Journal of Forest Research*, 36(6), 1376-1384.
+[[Journal]](https://doi.org/10.1139/x06-036)  [[PDF]](pdfs/Lstiburek_2006.pdf){target="_blank"}
+
+## 2005
+**Lstibůrek, M.**, Mullin, T.J., Mackay, T.F.C., Huber, D., Li, B. (2005). Positive assortative mating with family size as a function of predicted parental breeding values. *Genetics*, 171(3), 1311-1320.
+[[Journal]](https://doi.org/10.1534/genetics.105.041723)  [[PDF]](pdfs/Lstiburek_2005.pdf){target="_blank"}
+
+**Lstibůrek, M.** (2005). *Population response to positive assortative mating in forest tree breeding.* Ph.D. Dissertation, North Carolina State University. 
+[[NCSU Library]](http://www.lib.ncsu.edu/resolver/1840.16/3821)
+
+## 2004
+
+**Lstibůrek, M.**, Mullin, T.J., Lindgren, D., Rosvall, O. (2004). Open-nucleus breeding strategies compared with population-wide positive assortative mating. II. Unequal distribution of testing effort. *Theoretical and Applied Genetics*, 109(6), 1169-1177.
+[[Journal]](https://doi.org/10.1007/s00122-004-1737-2)  [[PDF]](pdfs/Lstiburek_2004_2.pdf){target="_blank"} 
+
+**Lstibůrek, M.**, Mullin, T.J., Lindgren, D., Rosvall, O. (2004). Open-nucleus breeding strategies compared with population-wide positive assortative mating. I. Equal distribution of testing effort. *Theoretical and Applied Genetics*, 109(6), 1196-1203.
+[[Journal]](https://doi.org/10.1007/s00122-004-1746-1)  [[PDF]](pdfs/Lstiburek_2004_1.pdf){target="_blank"}
