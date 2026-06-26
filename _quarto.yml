@@ -4,21 +4,17 @@ project:
     - "pdfs/"
     
 website:
-  title: "Milan Lstibůrek"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: team.qmd
+        text: Team
       - href: publications.qmd
         text: Publications
-    right:
-      - text: "EN"
-        href: index.qmd
-      - text: "CZ"
-        href: index_cz.qmd
 
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
     link-external-newwindow: true

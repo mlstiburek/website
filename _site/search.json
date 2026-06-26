@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Lstibůrek Lab of Statistical Genetics",
+    "section": "",
+    "text": "Our research provides novel contributions to statistical genetics, including estimating realized heritability in panmictic populations, assessing the impact of genotyping errors, and optimizing the selection of unrelated individuals. Within forest genetics, we develop methodological advancements in breeding strategies, such as ‘Breeding without Breeding’ and ‘Rolling-Front Landscape Breeding’, as well as in seed orchard optimization through spatial designs, genetic thinning, and selective harvest. More recently, we have been developing novel genetic evaluation and breeding approaches to cope with rapidly changing environmental conditions."
+  },
+  {
+    "objectID": "team.html#postdoctoral-researchers",
+    "href": "team.html#postdoctoral-researchers",
+    "title": "Lstibůrek Lab of Statistical Genetics",
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\n\n\n\n\n\nDr. Ye-Ji Kim\nPostdoctoral researcher\nResearch focus: Ye-Ji focuses on improving the management of forest tree seed orchards by integrating quantitative genetics, genomic information, and complementary biological data. Her research applies optimization algorithms to maximize genetic gain under genetic diversity constraints and uses quantitative-genetic approaches to assess the potential impacts of climate change on seed orchards.\nResearch Gate | Email"
+  },
+  {
+    "objectID": "team.html#ph.d.-students",
+    "href": "team.html#ph.d.-students",
+    "title": "Lstibůrek Lab of Statistical Genetics",
+    "section": "Ph.D. Students",
+    "text": "Ph.D. Students\n\n\n\n\n\nChristi Sagariya\nPh.D. student\nResearch focus: Christi focuses on forest quantitative genetics and breeding program simulations, integrating genomic and statistical approaches to evaluate genetic parameters, selection accuracy, and breeding strategies in forest trees.\nResearch Gate | Email\n\n\n\n\n\n\n\nDavid Chludil\nPh.D. student\nResearch focus: David’s research applies quantitative forest genetics to assisted migration, with particular emphasis on pollen-based assisted gene flow through seed-orchard systems to accelerate climate adaptation of forest trees while preserving local adaptation, genetic diversity, and practical feasibility in operational forestry.\nResearch Gate | Email\n\n\n\n\n\n\n\nSarath Saravanasakthi\nPh.D. student\nResearch focus: Sarath’s research focuses on somatic embryogenesis in forest trees, using Bayesian optimization to dynamically refine experimental layouts and maximize success rates, while also exploring the quantitative-genetic potential of vegetative propagation as a tool to enhance adaptive responses under changing environmental conditions.\nResearch Gate | Email"
+  },
+  {
+    "objectID": "team.html#former-ph.d.-students",
+    "href": "team.html#former-ph.d.-students",
+    "title": "Lstibůrek Lab of Statistical Genetics",
+    "section": "Former Ph.D. students",
+    "text": "Former Ph.D. students\n\n\nDr. Valérie Poupon\n→ 2024\nCurrent position: Statistical Genetics Consultant, VSNi International, England, UK.\nPast research focus: genetic adaptation of European larch.\nLinkedIn\n\n\n\nDr. Kateřina Chaloupková\n→ 2022\nCurrent position: Ministerial Officer, Department of National Parks, Ministry of the Environment, Czech Republic. Past research focus: spatial designs of forest tree seed orchards.\n\n\n\nDr. Pavel Češka\n→ 2014\nCurrent position: Head of Forestry Department, Military Forests and Farms of the Czech Republic.\nPast research focus: development of breeding programs and seed orchards at the Military Forests and Farms of the Czech Republic.\nWebsite\n\n\n\nDr. Jiří Korecký\n→ 2012\nCurrent position: Assistant Professor, Czech University of Life Sciences Prague, Czech Republic.\nPast research focus: pedigree reconstruction, establishment of the second-generation seed orchards.\nWebsite\n\n\n\nDr. Jan Kaňák\n→ 2011\nCurrent position: Senior Researcher, Arboretum Sofronka, Pilsen, Czech Republic.\nPast research focus: breeding strategies for Scots pine in the Czech Republic.\nWebsite"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Milan Lstibůrek",
+    "section": "",
+    "text": "I am a Professor of Forest Genetics at the Czech University of Life Sciences Prague (CZU). Since 2005, my work has focused on both theoretical and applied statistical genetics; I invite you to explore our dedicated Lstibůrek Lab of Statistical Genetics through this website and reach out with any inquiries."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Milan Lstibůrek",
+    "section": "",
+    "text": "I am a Professor of Forest Genetics at the Czech University of Life Sciences Prague (CZU). Since 2005, my work has focused on both theoretical and applied statistical genetics; I invite you to explore our dedicated Lstibůrek Lab of Statistical Genetics through this website and reach out with any inquiries."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Milan Lstibůrek",
+    "section": "News",
+    "text": "News\n\n2026: Just setting up my new website!"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -159,47 +208,5 @@
     "title": "Publications",
     "section": "2004",
     "text": "2004\nLstibůrek, M., Mullin, T.J., Lindgren, D., Rosvall, O. (2004). Open-nucleus breeding strategies compared with population-wide positive assortative mating. II. Unequal distribution of testing effort. Theoretical and Applied Genetics, 109(6), 1169-1177. [Journal] [PDF]\nLstibůrek, M., Mullin, T.J., Lindgren, D., Rosvall, O. (2004). Open-nucleus breeding strategies compared with population-wide positive assortative mating. I. Equal distribution of testing effort. Theoretical and Applied Genetics, 109(6), 1196-1203. [Journal] [PDF]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Milan Lstibůrek",
-    "section": "",
-    "text": "I am a Professor of Forest Genetics at the Czech University of Life Sciences Prague (CZU). My research focuses on quantitative genetics, forest tree breeding, and the optimization of genetic gain and diversity."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Milan Lstibůrek",
-    "section": "",
-    "text": "I am a Professor of Forest Genetics at the Czech University of Life Sciences Prague (CZU). My research focuses on quantitative genetics, forest tree breeding, and the optimization of genetic gain and diversity."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Milan Lstibůrek",
-    "section": "News",
-    "text": "News\n\n2026: Just setting up my new website!"
-  },
-  {
-    "objectID": "index_cz.html",
-    "href": "index_cz.html",
-    "title": "Milan Lstibůrek",
-    "section": "",
-    "text": "Působím jako profesor v oboru Kvantitativní genetiky a šlechtění lesních dřevin na České zemědělské univerzitě v Praze (ČZU)…"
-  },
-  {
-    "objectID": "index_cz.html#o-mně",
-    "href": "index_cz.html#o-mně",
-    "title": "Milan Lstibůrek",
-    "section": "",
-    "text": "Působím jako profesor v oboru Kvantitativní genetiky a šlechtění lesních dřevin na České zemědělské univerzitě v Praze (ČZU)…"
-  },
-  {
-    "objectID": "index_cz.html#novinky",
-    "href": "index_cz.html#novinky",
-    "title": "Milan Lstibůrek",
-    "section": "Novinky",
-    "text": "Novinky\n\n2026: Spuštění nových webových stránek."
   }
 ]
