@@ -9,9 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: team.qmd
+      - href: pages/team.qmd
         text: Team
-      - href: publications.qmd
+      - href: pages/publications.qmd
         text: Publications
 
 format:
