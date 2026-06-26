@@ -70,7 +70,7 @@ Stejskal, J., Klápště, J., Čepl, J., El-Kassaby, Y.A., **Lstibůrek, M.** (2
 Korecký, J., Čepl, J., Stejskal, J., Faltinová, Z., Dvořák, J., **Lstibůrek, M.**, El-Kassaby, Y.A. (2021). Genetic diversity of Norway spruce ecotypes assessed by GBS-derived SNPs. *Scientific Reports*, 11, 23119.
 [[Journal]](https://doi.org/10.1038/s41598-021-02545-z)  [[PDF]](pdfs/Korecky_2021.pdf){target="_blank"}
 
-<u>Poupon, V.</u>, Chakraborty, D., Stejskal, J., Konrad, H., Schueler, S., **Lstibůrek, M.** (2021). Accelerating adaptation of forest trees to climate change using individual tree response functions. *Frontiers of Plant Science*, 23, 758221.
+<u>Poupon, V.</u>, Chakraborty, D., Stejskal, J., Konrad, H., Schueler, S., **Lstibůrek, M.** (2021). Accelerating adaptation of forest trees to climate change using individual tree response functions. *Frontiers in Plant Science*, 23, 758221.
 [[Journal]](https://doi.org/10.3389/fpls.2021.758221)  [[PDF]](pdfs/Poupon_2021.pdf){target="_blank"}
 
 Hazarika, R., Bolte, A., Bednarova, D., Chakraborty, D., Gaviria, J., Kanzian, M., Kowalczyk, J., Lackner, M., **Lstibůrek, M.**, Longauer, R., Nagy, L., Tomášková, I., Schueler, S. (2021). Correction to: Multi-actor perspectives on afforestation and reforestation strategies in Central Europe under climate change. *Annals of Forest Science*, 78, 71.
@@ -81,7 +81,7 @@ Hazarika, R., Bolte, A., Bednarova, D., Chakraborty, D., Gaviria, J., Kanzian, M
 
 ## 2020
 
-**Lstibůrek, M.**, Schueler, S., El-Kassaby, Y.A., Hodge, G.R., Stejskal, J., Korecký, J., Škorpík, P., Konrad, H., Geburek, T. (2017). In situ genetic evaluation of European larch across climatic regions using marker-based pedigree reconstruction. *Frontiers in Genetics*, 11, 28.
+**Lstibůrek, M.**, Schueler, S., El-Kassaby, Y.A., Hodge, G.R., Stejskal, J., Korecký, J., Škorpík, P., Konrad, H., Geburek, T. (2020). In situ genetic evaluation of European larch across climatic regions using marker-based pedigree reconstruction. *Frontiers in Genetics*, 11, 28.
 [[Journal]](https://doi.org/10.3389/fgene.2020.00028)  [[PDF]](pdfs/Lstiburek_2020.pdf){target="_blank"}
 
 Bínová, Z., Korecký, J., Dvořák, J., Bílý, J., Zádrapová, D., Jansa, V., **Lstibůrek, M.** (2020). Genetic structure of Norway spruce ecotypes studied by SSR markers. *Forests*, 11(1), 110.
@@ -144,7 +144,7 @@ from western larch open-pollinated families using marker-based relationship. *Tr
 <u>Korecký, J.</u>, Klápště, J., **Lstibůrek, M.**, Kobliha, J., Nelson, D.C., El-Kassaby Y.A. (2013). Comparison of genetic parameters from marker-based relationship, sibship, and combined models in Scots pine multi-site open-pollinated tests. *Tree Genetics & Genomes*, 9, 1227-1235.
 [[Journal]](https://doi.org/10.1007/s11295-013-0630-z)  [[PDF]](pdfs/Korecky_2013.pdf){target="_blank"} 
 
-Kobliha, J., Stejskal, J., **Lstibůrek, M.**, Marušák, R., Slávik, M. (2013). Selection of European larch provenances basedon productivity and economic values. *Journal of Forest Science*, 59(11), 424-435.
+Kobliha, J., Stejskal, J., **Lstibůrek, M.**, Marušák, R., Slávik, M. (2013). Selection of European larch provenances based on productivity and economic values. *Journal of Forest Science*, 59(11), 424-435.
 [[PDF]](pdfs/Kobliha_2013_1.pdf){target="_blank"}
 
 Kobliha, J., Stejskal, J., **Lstibůrek, M.**, Typta, J., Tomášková, I., Jakubův, P. (2013). Testing of hybrid progenies and various species of genus Abies for forestry, decorating horticulture and Christmas tree production. *Acta Scientiarum Polonorum, Hortorum Cultus*, 12(4), 85-94.

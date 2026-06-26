@@ -98,7 +98,7 @@ Research focus: David’s research applies quantitative forest genetics to assis
 **Ph.D. student**  
 Research focus: Sarath's research focuses on somatic embryogenesis in forest trees, using Bayesian optimization to dynamically refine experimental layouts and maximize success rates, while also exploring the quantitative-genetic potential of vegetative propagation as a tool to enhance adaptive responses under changing environmental conditions.
 
-[Research Gate](https://example.com) | [Email](mailto:saravanasakthi@fld.czu.cz)
+[Research Gate](https://www.researchgate.net/profile/Sarath-Saravanasakthi) | [Email](mailto:saravanasakthi@fld.czu.cz)
 :::
 :::
 

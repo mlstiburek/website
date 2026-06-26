@@ -1,6 +1,19 @@
-.quarto/
-_site/
-
+# Quarto generated files
 /.quarto/
+/_site/
 **/*.quarto_ipynb
-.Rproj.user
+
+# R / RStudio local files
+.Rproj.user/
+.Rhistory
+*.Rhistory
+.RData
+.Ruserdata
+
+# Old Quarto tutorial/test render
+hello.html
+hello_files/
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
