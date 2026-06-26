@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "pdfs/"
+    - "images/"
     
 website:
   navbar:

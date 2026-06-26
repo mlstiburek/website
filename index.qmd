@@ -1,6 +1,6 @@
 ---
 title: "Milan Lstibůrek"
-image: profile.jpg
+image: images/profile.jpg
 toc: false
 about:
   template: trestles
