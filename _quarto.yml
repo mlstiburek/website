@@ -13,6 +13,8 @@ website:
         text: Team
       - href: pages/publications.qmd
         text: Publications
+      - href: pages/presentations.qmd
+        text: Presentations
 
 format:
   html:

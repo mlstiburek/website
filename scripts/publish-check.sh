@@ -10,10 +10,7 @@ git status --short
 
 echo ""
 echo "Staging website source files..."
-git add index.qmd _quarto.yml .gitignore
-git add pages/
-git add images/
-git add pdfs/
+git add -A index.qmd _quarto.yml .gitignore pages/ images/ pdfs/ scripts/
 
 echo ""
 echo "Staged files:"
