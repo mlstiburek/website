@@ -24,6 +24,10 @@ toc: false
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.presentation-spacer {
+  height: 2rem;
+}
 </style>
 
 Selected presentations, webinars, and recorded talks by members of our team.
@@ -36,37 +40,37 @@ Invited talk at the Animal Breeding and Genomics Group, Wageningen University & 
 [Download slides](../pdfs/presentations/Lstiburek_Wageningen_2026.pdf){target="_blank"}
 :::
 
-<div style="height: rem;"></div>
+<div class="presentation-spacer"></div>
 
 ### Christi Sagariya — Impact of erroneous marker data on the accuracy of narrow-sense heritability
 
-EvolTree FORGENIUS Conference, Madrid, Spain, November 18-21, 2025.
+EvolTree FORGENIUS Conference, Madrid, Spain, November 18–21, 2025.
 
 ::: {.presentation-video}
 {{< video https://youtu.be/caHO0O1UJ4s aspect-ratio="16x9" >}}
 :::
 
-<div style="height: 2rem;"></div>
+<div class="presentation-spacer"></div>
 
 ### David Chludil — Pollen-based assisted migration
 
-EvolTree FORGENIUS Conference, Madrid, Spain, November 18-21, 2025.
+EvolTree FORGENIUS Conference, Madrid, Spain, November 18–21, 2025.
 
 ::: {.presentation-video}
 {{< video https://youtu.be/tzQ1k5LrGyk aspect-ratio="16x9" >}}
 :::
 
-<div style="height: 2rem;"></div>
+<div class="presentation-spacer"></div>
 
 ### Milan Lstibůrek — A dynamic breeding framework for bridging local adaptation and assisted migration
 
-IUFRO WG 2.02.05 webinar held on September 25, 2025.
+EvolTree FORGENIUS Conference, Madrid, Spain, November 18–21, 2025.
 
 ::: {.presentation-video}
 {{< video https://youtu.be/F0xmYv-CnWY aspect-ratio="16x9" >}}
 :::
 
-<div style="height: 2rem;"></div>
+<div class="presentation-spacer"></div>
 
 ### Milan Lstibůrek — Rolling-Front Landscape Breeding
 
