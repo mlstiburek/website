@@ -21,3 +21,7 @@ format:
     theme: cosmo
     toc: false
     link-external-newwindow: true
+    include-in-header:
+      text: |
+        <script data-goatcounter="https://mlstiburek.goatcounter.com/count"
+                async src="https://gc.zgo.at/count.js"></script>
