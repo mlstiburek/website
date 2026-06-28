@@ -1,31 +1,84 @@
 ---
-title: "Milan Lstibůrek"
-image: images/profile.jpg
+title: "Lstibůrek Lab of Statistical Genetics"
 toc: false
-about:
-  template: trestles
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:lstiburek@fld.czu.cz
-    - icon: building
-      text: CZU Profile
-      href: https://home.czu.cz/lstiburek/uvod
-    - icon: github
-      text: Github
-      href: https://github.com/mlstiburek
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: mortarboard
-      text: ResearchGate
-      href: https://researchgate.net
 ---
 
-## About Me
+<style>
+#title-block-header {
+  display: none;
+}
 
-I am a Professor of Forest Genetics at the Czech University of Life Sciences Prague (CZU). Since 2005, my work has focused on both theoretical and applied statistical genetics; I invite you to explore our dedicated Lstibůrek Lab of Statistical Genetics through this website and reach out with any inquiries.
+.home-wrap {
+  position: relative;
+  max-width: 950px;
+  margin: 3rem auto 0 auto;
+  padding: 2rem;
+  overflow: hidden;
+}
+
+.home-wrap::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 48%;
+  height: 100%;
+  background-image: url("images/profile.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: contain;
+  opacity: 0.18;
+  z-index: 0;
+}
+
+.home-content {
+  position: relative;
+  z-index: 1;
+  max-width: 680px;
+}
+
+.home-title {
+  font-size: 2.4rem;
+  line-height: 1.15;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.home-content h2 {
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .home-wrap {
+    margin-top: 1.5rem;
+    padding: 1rem;
+  }
+
+  .home-wrap::after {
+    opacity: 0.10;
+    width: 80%;
+  }
+
+  .home-title {
+    font-size: 2rem;
+  }
+}
+</style>
+
+<div class="home-wrap">
+
+<div class="home-content">
+
+<div class="home-title">Lstibůrek Lab of Statistical Genetics</div>
+
+## About Us
+
+The Lstibůrek Lab of Statistical Genetics is based within the Department of Forest Genetics and Physiology at the Faculty of Forestry and Wood Sciences, Czech University of Life Sciences Prague. Led by Milan Lstibůrek, we develop and apply statistical-genetic methods for forest tree breeding, conservation, and adaptation to changing environments.
 
 ## News
 
--   **2026:** Just setting up my new website!
+- **June 2026:** New website launched!
+
+</div>
+
+</div>

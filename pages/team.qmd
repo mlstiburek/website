@@ -38,6 +38,30 @@ toc: false
 
 Our research provides novel contributions to statistical genetics, including estimating realized heritability in panmictic populations, assessing the impact of genotyping errors, and optimizing the selection of unrelated individuals. Within forest genetics, we develop methodological advancements in breeding strategies, such as 'Breeding without Breeding' and 'Rolling-Front Landscape Breeding', as well as in seed orchard optimization through spatial designs, genetic thinning, and selective harvest. More recently, we have been developing novel genetic evaluation and breeding approaches to cope with rapidly changing environmental conditions.
 
+## Principal Investigator
+
+::: {.grid .team-member}
+::: {.g-col-12 .g-col-md-3}
+![](../images/team/photoMilan.jpg){fig-alt="Photo of Dr. Milan Lstibůrek"}
+:::
+::: {.g-col-12 .g-col-md-9}
+### Dr. Milan Lstibůrek
+**Professor of Forest Genetics**  
+Department of Forest Genetics and Physiology, CZU
+
+[Email](mailto:lstiburek@fld.czu.cz) | 
+[CZU Profile](https://home.czu.cz/lstiburek/uvod) | 
+[GitHub](https://github.com/mlstiburek) | 
+[Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) | 
+[ORCID](https://orcid.org/YOUR-ORCID-ID) | 
+[CV](../pdfs/cv/CV_ML.pdf){target="_blank"}
+:::
+:::
+
+## Research Collaborations
+
+We actively collaborate with researchers from different institutions/countries on problems in statistical genetics. In the longer term, we hope to develop this network into an international research hub. If you are interested in collaborating with us, please get in touch.
+
 ## Postdoctoral Researchers
 
 ::: {.grid .team-member}
