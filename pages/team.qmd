@@ -52,8 +52,10 @@ Department of Forest Genetics and Physiology, CZU
 [Email](mailto:lstiburek@fld.czu.cz) | 
 [CZU Profile](https://home.czu.cz/lstiburek/uvod) | 
 [GitHub](https://github.com/mlstiburek) | 
-[Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) | 
-[ORCID](https://orcid.org/YOUR-ORCID-ID) | 
+[Google Scholar](https://scholar.google.com/citations?user=aaZLuHkAAAAJ) | 
+[ResearchGate](https://www.researchgate.net/profile/Milan-Lstiburek) |
+[ORCID](https://orcid.org/0000-0002-6304-6669) | 
+[LinkedIn](https://www.linkedin.com/in/milan-lstiburek-267aab2b2/) | 
 [CV](../pdfs/cv/CV_ML.pdf){target="_blank"}
 :::
 :::
