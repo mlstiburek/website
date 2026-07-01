@@ -5,6 +5,8 @@ project:
     - "images/"
     - "robots.txt"
     - "sitemap.xml"
+    - "google*.html"
+    - "BingSiteAuth.xml"
     
 website:
   title: "Lstibůrek Lab of Statistical Genetics"
