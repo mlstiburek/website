@@ -1,7 +1,14 @@
 # Quarto generated files
 /.quarto/
 /_site/
+/_site_libs/
 **/*.quarto_ipynb
+*.html
+*_files/
+
+# Keep rendered HTML ignored unless you intentionally publish from docs/
+!docs/
+!docs/**
 
 # R / RStudio local files
 .Rproj.user/
@@ -10,10 +17,16 @@
 .RData
 .Ruserdata
 
-# Old Quarto tutorial/test render
-hello.html
-hello_files/
+# R package / cache clutter
+.Rbuildignore
+.Renviron
+.Rprofile
+renv/library/
+renv/staging/
+packrat/lib*/
+packrat/src/
 
 # OS/editor clutter
 .DS_Store
 Thumbs.db
+.vscode/

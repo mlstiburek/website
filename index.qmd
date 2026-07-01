@@ -1,5 +1,5 @@
 ---
-title: "Lstibůrek Lab of Statistical Genetics | Milan Lstibůrek"
+title: "Lstibůrek Lab of Statistical Genetics"
 description: "Statistical genetics, forest genetics, forest tree breeding and conservation, seed orchards, and climate-adaptation research led by Milan Lstibůrek at CZU Prague."
 toc: false
 ---
