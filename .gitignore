@@ -30,3 +30,7 @@ packrat/src/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Search engine verification files
+!google*.html
+!BingSiteAuth.xml
