@@ -1,5 +1,5 @@
 ---
-title: "Lstibůrek Lab of Statistical Genetics"
+title: "Team | Lstibůrek Lab of Statistical Genetics"
 toc: false
 ---
 
