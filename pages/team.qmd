@@ -1,5 +1,5 @@
 ---
-title: "Team | Lstibůrek Lab of Statistical Genetics"
+title: "Team"
 toc: false
 ---
 
@@ -35,8 +35,6 @@ toc: false
 
 </style>
 ```
-
-Our research provides novel contributions to statistical genetics, including estimating realized heritability in panmictic populations, assessing the impact of genotyping errors, and optimizing the selection of unrelated individuals. Within forest genetics, we develop methodological advancements in breeding strategies, such as 'Breeding without Breeding' and 'Rolling-Front Landscape Breeding', as well as in seed orchard optimization through spatial designs, genetic thinning, and selective harvest. More recently, we have been developing novel genetic evaluation and breeding approaches to cope with rapidly changing environmental conditions.
 
 ## Principal Investigator
 

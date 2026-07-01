@@ -3,12 +3,15 @@ project:
   resources:
     - "pdfs/"
     - "images/"
+    - "robots.txt"
+    - "sitemap.xml"
     
 website:
   title: "Lstibůrek Lab of Statistical Genetics"
   description: "Statistical genetics, forest genetics, forest tree breeding and conservation, seed orchards, and climate-adaptation research led by Milan Lstibůrek at CZU Prague."
   site-url: "https://mlstiburek.github.io/website/"
   image: "images/profile.png"
+  image-alt: "Lstibůrek Lab of Statistical Genetics at CZU Prague"
   
   navbar:
     title: false
@@ -21,6 +24,9 @@ website:
         text: Publications
       - href: pages/presentations.qmd
         text: Presentations
+        
+  open-graph: true
+  twitter-card: true  
 
 format:
   html:
